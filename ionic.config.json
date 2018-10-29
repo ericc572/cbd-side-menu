@@ -1,0 +1,7 @@
+{
+  "name": "cbd-side-menu",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
